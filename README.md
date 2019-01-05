@@ -1,2 +1,1 @@
-# mlmpowerslab_dfy
-MLM Powers Lab website for iBeads
+MLM Powers Lab Website for ibeads
